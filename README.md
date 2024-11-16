@@ -15,11 +15,6 @@ This web application allows users to classify news articles as either real or fa
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/Murasajo/Fake-News-Detection-App.git
-   cd fake-news-classification-app
-   ```
-
 2. **Install dependencies:**
 
    Ensure you have Python 3.x installed. Install the required Python libraries:
