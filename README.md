@@ -31,8 +31,6 @@ This web application allows users to classify news articles as either real or fa
    streamlit run app.py
    ```
 
-   Open your web browser and go to `https://fake-news-detection-app-46bmwaxx4vesqj9dapp2ged.streamlit.app/`.
-
 ## Usage
 
 - Select a news title from the dropdown menu.
